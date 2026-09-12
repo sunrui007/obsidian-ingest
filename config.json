@@ -1,0 +1,7 @@
+{
+  "vault_path": "./vault",
+  "attachment_folder": "_attachments/收录",
+  "whisper_model": "small",
+  "work_dir": ".work",
+  "model_dir": ".models"
+}
