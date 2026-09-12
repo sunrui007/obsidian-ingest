@@ -1,0 +1,9 @@
+.deps/
+.models/
+.work/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+config.local.json
+vault/
