@@ -1,0 +1,6 @@
+interface:
+  display_name: "Obsidian 内容入库"
+  short_description: "将链接与文件整理为 Markdown，按内容自动分类并存入 Obsidian 知识库"
+  default_prompt: "使用 $obsidian-ingest 将这些链接或文件提取为 Markdown，按内容归入我的 Obsidian 知识库，缺少合适分类时自动创建。"
+policy:
+  allow_implicit_invocation: true
